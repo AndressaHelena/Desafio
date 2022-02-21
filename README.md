@@ -11,4 +11,4 @@ O usuário informa o número que será armazenado na váriavel n, qdo o algoritm
 
 <h3>Questão 3</h3>
   Essa questão tive dificuldade, não consegui criar um algoritmo que fosse a solução do enunciado e o tempo acabou. 
- <img src="https://user-images.githubusercontent.com/94869300/154873304-ffce7d7d-479b-448e-9ab3-6c1a73c6a884.jpg">
+ <img src="https://user-images.githubusercontent.com/94869300/154875793-e48b04f6-216e-4392-be23-7908b4e1f158.jpg">
