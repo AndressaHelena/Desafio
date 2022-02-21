@@ -14,13 +14,13 @@ public class Questao03 {
 		}
 		System.out.println();
 		for (int i = 0; i < palavra.length(); i++) {
-		for (int j = 0; j < pares[i].length; j++) {
-		if (caracteres[i] == caracteres[i]) {
-		System.out.println(caracteres[i] + " " +
-		caracteres[i]);
-		pares[i][j] = caracteres[i];
-		}
-		}
+			for (int j = 0; j < pares[i].length; j++) {
+				if (caracteres[i] == caracteres[i]) {
+					System.out.println(caracteres[i] + " " +
+					caracteres[i]);
+					pares[i][j] = caracteres[i];
+				}
+			}
 		}
 		System.out.println(pares);
 		sc.close();
